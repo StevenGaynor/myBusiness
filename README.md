@@ -1,9 +1,10 @@
 myBusiness
 ==========
+website created for HDCLOUD  Web Design
+----------------------------
 Name: Steven Gaynor
 Student Number: 14108038
-----------------------------
-site created for HDCLOUD  Web Design
+
 This site includes:
   - HTML
   - CSS
